@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Jr Penetration Tester
 - 💞️ I’m looking to collaborate on Pentesting
-- 📫 How to reach me : hackombre@gmail.com
+- 📫 How to reach me : hackombre@gmail.com / alphaoumarlaboundiallo@gmail.com
 - 😄 Pronouns: OMBRE
 - ⚡ Fun fact: :D 
 
