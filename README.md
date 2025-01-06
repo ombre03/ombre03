@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ombre03
+- 📖 I study at SUPINFO Lyon
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Jr Penetration Tester
 - 💞️ I’m looking to collaborate on Pentesting
